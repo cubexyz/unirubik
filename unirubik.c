@@ -1,3 +1,22 @@
+/*
+    This file is part of unirubik
+    Copyright (C) 1988-2012 Mark Longridge <cubeman@vector.nothing.org>
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+*/
+
 /* Unirubik is an attempt to make a universal Rubik's Cube simulation 
    which can be compiled with any ANSI C compiler
    
@@ -9,6 +28,7 @@
      QuickC (Intel X86 DOS)  1988
      Lattice C (Amiga)       1988
      gcc (Intel X86 Linux)   2003
+     gcc 4.0.1 (OS X 10.5)   2012
 
      The program appends .q to the end of saved files
 
